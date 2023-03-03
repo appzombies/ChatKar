@@ -1,0 +1,20 @@
+{
+  "error": false,
+  "isNewApp":false,
+  "app_pkg": "com.cll.dynamicspot.dynamic.island.dynamicisland.dynamicedge",
+   "fbBannr": "816708318962636_1268916687075128",
+  "fbInter": "816708318962636_1268916747075122",
+  "fbNative": "816708318962636_1268916800408450",
+  "fbNativeBnnr": "YOUR_PLACEMENT_ID",
+  "AdmobBannr": "ca-app-pub-6134476816702914/6317565525",
+  "AdmobInter": "ca-app-pub-6134476816702914/5958472879",
+  "AdmobInterSplash":"",
+  "AdmobNative": "ca-app-pub-6134476816702914/3881575075",
+  "AdmobOpenAds": "ca-app-pub-6134476816702914/1255411733",
+  "admob_pub_id": "pub-3940256099942544",
+  "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+  "adType": "admob",
+  "loadMore": false,
+  "adStatus": "admob",
+  "adMobTime":30
+}
